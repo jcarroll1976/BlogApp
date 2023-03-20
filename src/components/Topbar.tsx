@@ -24,7 +24,7 @@ export default function Topbar() {
         <div className="topRight">
             <img className='topImage'
             src="https://scontent.fdet1-1.fna.fbcdn.net/v/t39.30808-6/312888249_10225288804200297_7141473085575978790_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=N1lqr6UQ1nMAX8U3Ezn&_nc_ht=scontent.fdet1-1.fna&oh=00_AfBpRw6qLIMFu36wP3_xKgnAsirvALOEhciR6D2inwBEYg&oe=641BEBB3"
-            alt="Profile Image"/>
+            alt="Profile"/>
             <AiOutlineSearch className='searchIcon' />
         </div>
     </div>
