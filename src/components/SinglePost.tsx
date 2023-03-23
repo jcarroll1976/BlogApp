@@ -18,7 +18,8 @@ export default function SinglePost() {
             <div className="singlePostInfo">
                 <span className="singlePostAuthor">Author: <b>Josh</b></span>
                 <span className="singlePostDate">1 hour ago</span>
-                <p>
+            </div>
+            <p className='singlePostDescription'>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci accusamus animi quos veritatis, 
                     suscipit quo excepturi voluptatem vitae culpa? Voluptatibus nam eius minus aspernatur eveniet, 
                     repudiandae tenetur atque nihil iusto.
@@ -38,7 +39,6 @@ export default function SinglePost() {
                     suscipit quo excepturi voluptatem vitae culpa? Voluptatibus nam eius minus aspernatur eveniet, 
                     repudiandae tenetur atque nihil iusto.
                 </p>
-            </div>
         </div>
     </div>
   )
